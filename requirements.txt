@@ -2,6 +2,6 @@ pdfplumber>=0.8.0
 tensorflow>=2.11.0
 transformers>=4.29.2
 pickle5>=0.0.11
-fitz>=1.19.6
+PyMuPDF>=1.19.6
 tqdm>=4.64.1
 pandas>=1.5.2
